@@ -1,0 +1,13 @@
+{
+  "name": "pg_file",
+  "version": "1.0.0",
+  "description": "PG Database of Apt files",
+  "main": "index.mjs",
+  "repository": "https://github.com/PopeNobody/pg_file.git",
+  "author": "dev@copblock.app",
+  "license": "MIT",
+  "dependencies": {
+    "pg-connect": "^2.0.2",
+    "pg-promise": "^10.12.0"
+  }
+}
